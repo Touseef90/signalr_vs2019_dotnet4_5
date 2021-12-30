@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div>
+    <form id="chatForm">
+        <div class="mb-3">
+            <label for="message" class="form-label">Message</label>
+            <input type="text" class="form-control" id="message">
+        </div>
+        <button type="button" id="chatBtn" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+<div id="welcomeMesg"></div>
+
+@section scripts {
+    <script src="~/Scripts/jquery.signalR-2.4.2.min.js"></script>
+    <script src="~/signalr/js"></script>
+    <script src="~/Scripts/SignalR.js"></script>
+}

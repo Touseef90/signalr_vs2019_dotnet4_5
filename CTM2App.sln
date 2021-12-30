@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTM2App", "CTM2App\CTM2App.csproj", "{404FF45D-9359-47D7-B005-6A082616167A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404FF45D-9359-47D7-B005-6A082616167A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404FF45D-9359-47D7-B005-6A082616167A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404FF45D-9359-47D7-B005-6A082616167A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404FF45D-9359-47D7-B005-6A082616167A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC28DDE-9911-4526-80CB-2B105A088A91}
+	EndGlobalSection
+EndGlobal
